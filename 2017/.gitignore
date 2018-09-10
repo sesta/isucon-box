@@ -1,0 +1,10 @@
+.DS_Store
+.*
+!.gitignore
+!.gitconfig.local
+!.bashrc.local
+!.keep
+mysql-slow.log
+/netdata/**
+local
+xbuild
